@@ -1,3 +1,3 @@
 defmodule Rumbl.Accounts.User do
-  defstruct [:id, :first_name, :last_name]
+  defstruct [:id, :name, :username]
 end
